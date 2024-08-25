@@ -1,5 +1,5 @@
 ![](./imagenes/titulo.png)
-**texto en negrita**
+**Empezamos con un escaneó de puertos**
 ![](./imagenes/imagen0.png)
 ![](./imagenes/imagen1.png)
 ![](./imagenes/imagen2.png)
