@@ -5,7 +5,9 @@
 ![](./imagenes/imagen2.png)
 **Vemos que podemos comentarnos por ftp con el usuario anonymous sin contraseña**
 ![](./imagenes/imagen4.png)
+**Descargamos ambos txt**
 ![](./imagenes/imagen5.png)
+**Hacemos fuerza bruta con hydra al usuario rusosski**
 ![](./imagenes/imagen6.png)
 ![](./imagenes/imagen7.png)
 ![](./imagenes/imagen8.png)
