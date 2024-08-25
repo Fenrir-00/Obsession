@@ -5,3 +5,5 @@
 ![](./imagenes/imagen4.png)
 ![](./imagenes/imagen5.png)
 ![](./imagenes/imagen6.png)
+![](./imagenes/imagen7.png)
+![](./imagenes/imagen8.png)
