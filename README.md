@@ -7,7 +7,8 @@
 ![](./imagenes/imagen4.png)
 **Descargamos ambos txt**
 ![](./imagenes/imagen5.png)
-**Hacemos fuerza bruta con hydra al usuario rusosski**
+**Hacemos fuerza bruta con hydra al usuario russoski**
 ![](./imagenes/imagen6.png)
+**Nos conectamos por ssh al usuario russoski contraseña iloveme**
 ![](./imagenes/imagen7.png)
 ![](./imagenes/imagen8.png)
