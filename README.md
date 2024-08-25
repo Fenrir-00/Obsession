@@ -11,4 +11,6 @@
 ![](./imagenes/imagen6.png)
 **Nos conectamos por ssh al usuario russoski contraseña iloveme**
 ![](./imagenes/imagen7.png)
+**Vemos dos formas de elevar prilegios**
 ![](./imagenes/imagen8.png)
+**Somos root de dos maneras diferentes **
