@@ -13,4 +13,4 @@
 ![](./imagenes/imagen7.png)
 **Vemos dos formas de elevar prilegios**
 ![](./imagenes/imagen8.png)
-**Somos root de dos maneras diferentes **
+**Somos root de dos maneras diferentes**
